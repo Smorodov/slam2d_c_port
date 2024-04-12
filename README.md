@@ -1,4 +1,4 @@
 # SLAM 2D
 
-![video](putput.mp4)
+![video](output.mp4)
 
