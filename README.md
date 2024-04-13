@@ -4,3 +4,11 @@
 ## Видео работы программы.
 [![Watch the video](https://i.ytimg.com/vi_webp/yrt2bietxJs/oar2.webp)](https://www.youtube.com/shorts/yrt2bietxJs)
 
+## Зввисимости
+
+* Eigen3 для матричных вычислений.
+* OpenCV для отрисовки (легко отцепляется)
+
+Файл matrix.txt нужно переписать в папку с exe-шником.
+
+Проект проверялся на VS2022.
